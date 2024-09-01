@@ -2,4 +2,6 @@
 
 The the few first applications made by blvckrvy.
 
-Download, modify, and enjoy.
+Each project is in a different branch.
+
+Download, Modify, and Enjoy.
