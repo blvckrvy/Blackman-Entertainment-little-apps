@@ -1,5 +1,5 @@
-# Password Generator
+# Blackman Entertainment Little Apps
 
-The very first application made by blvckrvy.
+The the few first applications made by blvckrvy.
 
 Download, modify, and enjoy.
