@@ -1,0 +1,21 @@
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\bin\Debug\net7.0-windows\Tic Tac Toe App.exe
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\bin\Debug\net7.0-windows\Tic Tac Toe App.deps.json
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\bin\Debug\net7.0-windows\Tic Tac Toe App.runtimeconfig.json
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\bin\Debug\net7.0-windows\Tic Tac Toe App.dll
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\bin\Debug\net7.0-windows\Tic Tac Toe App.pdb
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.csproj.AssemblyReference.cache
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic_Tac_Toe_App.Form1.resources
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.csproj.GenerateResource.cache
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.AssemblyInfoInputs.cache
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.AssemblyInfo.cs
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.csproj.CoreCompileInputs.cache
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.dll
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\refint\Tic Tac Toe App.dll
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.pdb
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic Tac Toe App.genruntimeconfig.cache
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\ref\Tic Tac Toe App.dll
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic_Tac_Toe_App.Properties.Resources.resources
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic_Tac_Toe_App.Form2.resources
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic_Tac_Toe_App.Form3.resources
+C:\Users\chimi\OneDrive\Documents\C# learning\Tic Tac Toe App\obj\Debug\net7.0-windows\Tic_Tac_Toe_App.Form4.resources
